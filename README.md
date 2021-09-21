@@ -17,5 +17,17 @@ You need NodeJS and NPM in your computer
 npm install 
 npm start
 ```
+## 🚀 Tecnologias
 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- HTML
+- CSS
+- JS
+
+## Authors
+
+  - **Vinícius Zaninelo** - [Linkedin](https://www.linkedin.com/in/vin%C3%ADciuszaninelo/) <br />
+ 
+ ## Acknowledgment
+project carried out during the classes of [Emerson Broga](https://www.instagram.com/emersonbrogadev/)
